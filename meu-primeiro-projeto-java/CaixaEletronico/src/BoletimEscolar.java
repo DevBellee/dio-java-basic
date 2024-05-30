@@ -5,6 +5,7 @@ public class BoletimEscolar {
 		System.out.println(resultado);
 	}
 }
+
 // Cenário 2
 //public class ResultadoEscolar {
 //public static void main(String[] args) {

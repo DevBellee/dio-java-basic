@@ -16,7 +16,6 @@ public class PlanoMobile {
 	}
 }
   
-
 //Se fosse feito com Estruturas Condicionais:
 //String plano = "M"; //M / T
 //if(plano == "B") {
